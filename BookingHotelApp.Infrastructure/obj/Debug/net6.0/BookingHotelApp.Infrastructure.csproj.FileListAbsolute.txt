@@ -1,0 +1,17 @@
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\bin\Debug\net6.0\BookingHotelApp.Infrastructure.deps.json
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\bin\Debug\net6.0\BookingHotelApp.Infrastructure.runtimeconfig.json
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\bin\Debug\net6.0\BookingHotelApp.Infrastructure.dll
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\bin\Debug\net6.0\BookingHotelApp.Infrastructure.pdb
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\bin\Debug\net6.0\BookingHotelApp.Core.dll
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\bin\Debug\net6.0\BookingHotelApp.Core.pdb
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.csproj.CopyComplete
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.dll
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\refint\BookingHotelApp.Infrastructure.dll
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.pdb
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\BookingHotelApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Infrastructure\obj\Debug\net6.0\ref\BookingHotelApp.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\bin\Debug\net6.0\BookingHotelApp.Core.deps.json
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\bin\Debug\net6.0\BookingHotelApp.Core.dll
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\bin\Debug\net6.0\BookingHotelApp.Core.pdb
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\BookingHotelApp.Core.csproj.AssemblyReference.cache
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\BookingHotelApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\BookingHotelApp.Core.AssemblyInfoInputs.cache
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\BookingHotelApp.Core.AssemblyInfo.cs
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\BookingHotelApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\BookingHotelApp.Core.dll
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\refint\BookingHotelApp.Core.dll
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\BookingHotelApp.Core.pdb
+C:\Users\Aleksander\source\repos\BookingHotelApp\BookingHotelApp.Core\obj\Debug\net6.0\ref\BookingHotelApp.Core.dll
